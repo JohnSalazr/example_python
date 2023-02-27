@@ -15,3 +15,4 @@ print("La propina es de:", Propina)
 #Costo total
 suma = valor_pedido + Propina
 print("El costo total del pedido es de:",suma)
+
