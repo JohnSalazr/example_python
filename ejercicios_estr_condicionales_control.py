@@ -62,18 +62,3 @@ if zona  == 4 and edad >= Dato_comparacion and boleta:
     print('Su boleta esta situada en la zona baja')
 if zona < 1 or zona > 4:
     print('Boleta no identificada, verifica de nuevo tu información')
-
-
-
-switch (zona)
-    case 1:
-    print(Su zona es la VIP)
-    break;
-  case 2:
-    print(Su zoan es la preferencial)
-    break;
-  case 3:
-    print(Su zona es la general)
-    break;
-  default:
-    // haz x
